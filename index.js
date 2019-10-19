@@ -1,8 +1,8 @@
 /**
  * 
- * @param {Object[]} mainArray - array of value > 0
+ * @param { Object[] } mainArray - array of value > 0
  * @param { number } numOfSubArrays - positive number
- * @returns array of arrays equal to numOfSubArrays
+ * @returns array its size equal to numOfSubArrays
  */
 function divideToSizedArrays(mainArray, numOfSubArrays) {
   let dividedArrays = [];
