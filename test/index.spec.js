@@ -1,6 +1,5 @@
-'use strict';
 const divideToSizedArrays = require('../index.js');
-var expect = require('chai').expect;
+const expect = require('chai').expect;
 
 describe('divideToSizedArrays() test cases',() => {
     it('should return an array has two equaled size arrays and third one its size is one',() => {
