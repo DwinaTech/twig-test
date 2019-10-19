@@ -7,6 +7,5 @@
  - Run `npm install` to install node moduels.
  - Run `npm run test` to run the test.
 
-### Note:
+#### Note:
  The test requirements are not all of them meet your `pseudo code` it seems some of them are broken, I had the test on the end of Friday so I could not have a chance to have more clarification from your side so I handled some of the test scenarios.
- 
